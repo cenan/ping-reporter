@@ -1,3 +1,5 @@
+Pinger.vbs
+
 This script pings the given ip addresses in "iplist.txt"
 then creates a report with the list of the ip numbers which
 do not respond to ping request and sends it as an email.
